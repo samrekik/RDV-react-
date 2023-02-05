@@ -1,0 +1,18 @@
+.color-body{
+    background-color: rgb(241, 235, 174);
+    height: 100vh;
+}
+.font{
+    font-family: 'Open Sans', sans-serif;
+}
+.rectangle{
+    height: 500px;
+
+    border-radius: 15px;
+    box-shadow: 1px 4px 4px 1px rgba(85,85,85,0.25);
+}
+.img-avatar{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
